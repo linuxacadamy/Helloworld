@@ -1,3 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !! </h1>
-<h2> AWS & DevOps training </h2>
-<h2> Happy srikanth calm srikanth </h2>
+<h1> Thanks to Komerla Srinivas Tejdeep... whth out you this wouldn't be possible !! </h1>
